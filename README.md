@@ -1,7 +1,7 @@
 <!--
 **alberttogoca/alberttogoca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-<h2 align="center">Hi There!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+<h2>Hi There!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 <h3>I'm a passionate fullstack developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alberttogoca&label=Profile%20views&color=0e75b6&style=flat" alt="alberttogoca" /> </p>
